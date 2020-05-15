@@ -9,7 +9,7 @@ namespace BasicMathOperations1
     static class Program
     {
         /// <summary>
-        /// Der Haupteinstiegspunkt für die Anwendung.
+        /// Einstiegspunkt der Anwendung
         /// </summary>
         [STAThread]
         static void Main()

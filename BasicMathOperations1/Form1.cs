@@ -68,5 +68,10 @@ namespace BasicMathOperations1
             txtNumber1.Focus();
             txtNumber1.SelectAll();
         }
+
+        private void txtNumber1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
